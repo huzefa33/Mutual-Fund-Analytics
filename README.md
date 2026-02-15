@@ -1,4 +1,5 @@
 Tools & Technologies:- Power BI, Power Query, DAX, Data Modeling, Data Visualization, Forecasting
+
 Project Overview:- Developed an interactive Power BI dashboard to analyze Mutual Funds data, providing Asset Classes (Equity, Debt, Cash), Market Capitalization, Credit Ratings (AAA/AA/A), AUM Analysis, Rolling Returns, Portfolio Allocation
 
 Key Contributions & Insights:-
